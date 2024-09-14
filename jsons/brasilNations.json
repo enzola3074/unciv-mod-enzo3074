@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Brasil",
+		"leaderName": "Neymar",
+		"adjective": ["brasileiro"],
+		"startBias": ["pasture"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "🎶COME TO BRASIL🎶 Olá, aqui é Brasil, vc tem 5 copas do mundo?",
+		"startIntroPart2": "AQUI É 𝘽𝙍𝘼𝙎𝙄𝙇 PORRAAAAAAAAAA",
+		
+		"declaringWar": "YOURE COMING TO BRASIL",
+		"attacked": "tu vai tomar caneta do ney em",
+		"defeated": "BRASIL ALWAYS COME BACK FILHO DA PUTA",
+		"introduction": "AQUI É 𝘽𝙍𝘼𝙎𝙄𝙇 5 COPAS DO MUNDO TUDO BEM?",
+		
+		"neutralHello": "opa, aqui é brasil, tudo bem?",
+		"neutralLetsHearIt": ["pode falar","continua doido","pode falar irmao"],
+		"neutralNo": ["nananinanão","com certeza não","ta maluco mo nengue"],
+		"neutralYes": ["pode ser","fechou ent","blz ent"],
+
+		"hateHello": "q q vc quer irmao",
+		"hateLetsHearIt": ["so fala","pofala","continue"],
+		"hateNo": ["viaja ni mim nao sô","ta maluco rapa faço isso ai nem fudendo rapa","bah tche nao tche, bah"],
+		"hateYes": ["oia oia em, vou aceitar","ta","fechou blz"],
+		
+		"afterPeace": "TREMEU PRO 𝘽𝙍𝘼𝙎𝙄𝙇 PORARAAAAAAAAAAAAAAA",
+		"tradeRequest": "iae rapa bora troca aqui rapidao ze sem brava",
+
+		"outerColor": [11, 128, 27],
+		"innerColor": [11, 11, 163],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Brasília","São Paulo","Rio de Janeiro","Belo Horizonte","Salvador","Porto Alegre","Salvador","Manaus","São Luís",
+			"Florianópolis","Curitiba","Vitória","Cuiabá","Fortaleza","Natal","Aracaju","Maceió","João Pessoa","Teresina","Goiânia","Campo Grande","Recife","Palmas","Boa Vista","Belém","Rio Branco","Porto Velho","Macapá"
+			]
+	}
+]
