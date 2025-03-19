@@ -1,0 +1,36 @@
+[
+	{
+		"name": "País da Bet",
+		"leaderName": "Ghost",
+		"adjective": ["Better"],
+		"startBias": ["pasture"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Seja bem vindo ao País da Bet. Sou o Ghost. Dono.",
+		"startIntroPart2": "tem vintao ai?",
+		
+		"declaringWar": "ja q nao vai me pagar e guerra pae",
+		"attacked": "vo chama o tigrin",
+		"defeated": "filho da puta me deu golpe",
+		"introduction": "bom dia. gostaria de jogar na nova plataforma??",
+		
+		"neutralHello": "opa",
+		"neutralLetsHearIt": ["continue","cintinue","pode falar irmao"],
+		"neutralNo": ["nao","naoqu-ero📍","nao:("],
+		"neutralYes": ["pode ser","fechou ent","blz ent"],
+
+		"hateHello": "pague o que me deve filho da puta",
+		"hateLetsHearIt": ["hm","e o tigrin","continue"],
+		"hateNo": ["naaaoq-uero📍","nuh uh","com certeza não"],
+		"hateYes": ["so dessa vez fdp","ta","ok"],
+		
+		"afterPeace": "‼‼ NOVA PLATAFORMAA ‼‼🗣🔥",
+		"tradeRequest": "maceitaria uma troca??",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Casa de Apostas","Las Vegas","Cidadela Fodástica","Cidade dos Cassinos","Monte Carlo","Apostópolis","Jackpot Town","Blackjack Palace","Roleta Sortuda"
+			]
+	}
+]
