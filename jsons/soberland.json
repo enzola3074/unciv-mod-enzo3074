@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Soberland Empire",
+		"leaderName": "President Bruce Wickedfield",
+		"adjective": ["Conservative"],
+		"startBias": ["pasture"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Olá.",
+		"startIntroPart2": "Olá;",
+		
+		"declaringWar": "Pois bem. Declaro-lhe guerra.",
+		"attacked": "Deplorável. Você irá se arrepender.",
+		"defeated": "Eu Voltarei.",
+		"introduction": "Olá, sou Bruce Wickedfield, Presidente do Império Soberland. Como vai?",
+		
+		"neutralHello": "Olá.",
+		"neutralLetsHearIt": ["Gostaria de ouvir o que tem a propor.","Sim?","Concedo-lhe a permissão para fala."],
+		"neutralNo": ["Desculpe-me, porém, não aceito a sua proposta.","Perdoe-me, contudo, não aceitarei.","Não."],
+		"neutralYes": ["Aceitarei sua proposta.","Tenho a felicidade de lhe informar que a proposta foi aceita.","Aceito."],
+
+		"hateHello": "Olá.",
+		"hateLetsHearIt": ["O que tens a dizer?"],
+		"hateNo": ["Não."],
+		"hateYes": ["Aceitarei sua proposta."],
+		
+		"afterPeace": "Que Deus possa nos abençoar.",
+		"tradeRequest": "Ofereço uma troca.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Rayish Town", "High-End City", "Suburbsville", "Brazzaville", "Mogg City"
+			]
+	}
+]
